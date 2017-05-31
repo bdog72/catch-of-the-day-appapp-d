@@ -31,6 +31,11 @@ class App extends Component {
     })
   }
 
+  addToOrder (key) {
+    const order = {...this.state.order}
+    order[key] = order[key] + 1 || 1
+  }
+
   render () {
     return <div>
       {/* <StorePicker /> */}

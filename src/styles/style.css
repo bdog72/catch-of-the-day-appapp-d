@@ -515,6 +515,7 @@ ul.order li span.count span {
       -ms-flex-align: center;
           align-items: center;
 }
+
 .menu-fish .price {
   font-size: 1.4rem;
   -webkit-box-pack: end;
