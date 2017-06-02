@@ -8,6 +8,7 @@ import Main from './components/Main.js'
 // import App from './components/App'
 // import './styles/style.css'
 import './styles/screen.scss'
+// import './styles/style.styl'
 
 const root = document.getElementById('root')
 
